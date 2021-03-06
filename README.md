@@ -9,6 +9,7 @@ App to practise with Pokemon TCG <a href="api.pokemontcg.io" target="blank">API<
 
 ## TODO
 
+- **FIX** Content-type headers
 - Render cards in page
 - Add filters by relaseDate/set/type and more
 - Add css animations
