@@ -4,9 +4,8 @@ App to practise with Pokemon TCG <a href="api.pokemontcg.io" target="blank">API<
 
 ## DONE
 
-[X] Request cards from API
-<br>
-[X] Request images from API
+- [x] Request cards from API
+- [x] Request images from API
 
 ## TODO
 
