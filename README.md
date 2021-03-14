@@ -6,11 +6,10 @@ App to practise with Pokemon TCG <a href="api.pokemontcg.io" target="blank">API<
 
 - [x] Request cards from API
 - [x] Request images from API
+- [x] Render sets/cards in page
 
 ## TODO
 
-- **FIX** Content-type headers
-- Render cards in page
 - Add filters by relaseDate/set/type and more
 - Add css animations
 - Show the current price of each card
